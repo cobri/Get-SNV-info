@@ -15,3 +15,10 @@ The Catalogue Of Somatic Mutations In Cancer. Search for somatic mutations found
 
 ## [OMIM](https://www.ncbi.nlm.nih.gov/omim)
 An "authoritative compendium of human genes and genetic phenotypes". 
+
+
+## [GTEx](https://www.gtexportal.org/home/)
+Does your variant influence the expression levels of a gene? Here you can check the correlation between genotypes and tissue-specific levels of gene expression. 
+
+## Conservation
+Check if your variant is located in a conserved region. Conserved regions are more liekly to be biologically functional. Use GERP and  phyloP scores.
