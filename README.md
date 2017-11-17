@@ -19,5 +19,8 @@ An "authoritative compendium of human genes and genetic phenotypes".
 ## [GTEx](https://www.gtexportal.org/home/)
 Does your variant influence the expression levels of a gene? Here you can check the correlation between genotypes and tissue-specific levels of gene expression. 
 
+## [HGMD](http://www.hgmd.cf.ac.uk/ac/index.php)
+Human Gene Mutation Database.
+
 ## Conservation
 Check if your variant is located in a conserved region. Conserved regions are more likely to be biologically functional. Use GERP and  phyloP scores.
